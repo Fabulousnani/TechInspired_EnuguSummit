@@ -1,7 +1,7 @@
 # TechInspired_EnuguSummit
 ## Overview
 ______________________________________
- This is a sentiment analysis of user tweets for the biggest tech event in the year 2022 in Enugu. I made use of python,excel and powerBi for the overall data extraction,cleaning,analysis and data visualization. Use this [link](https://open.substack.com/pub/fabulousnani/p/tech-inspired-by-enugutechsummit?r=accg3&utm_campaign=post&utm_medium=web) to view full documentation and interact with the dashboard.
+ This is a Twitter analysis of user tweets for the biggest tech event organizesd in Enugu by TXE_Africa in the month of september,2022 in Enugu. I made use of python,excel and powerBi for the overall data extraction,cleaning,analysis and data visualization. Use this [link](https://open.substack.com/pub/fabulousnani/p/tech-inspired-by-enugutechsummit?r=accg3&utm_campaign=post&utm_medium=web) to view full documentation and interact with the dashboard.
  ______________________________________________________
 ![Summit1 2](https://user-images.githubusercontent.com/91569726/204116389-f745c7f5-f9ad-4623-9898-2ae659f5c43e.jpg)
 _____________________________________________________
