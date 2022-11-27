@@ -8,10 +8,10 @@ _____________________________________________________
 ## Tweet_dasboard
 ![Summit2](https://user-images.githubusercontent.com/91569726/204116391-3ed3e43b-41f2-402c-95a5-a6d189671adc.jpg)
 _________________________________________________________________
-## Qualitative Feedbacks and Analysis
+## Speaker's Desk
 ![Summit3](https://user-images.githubusercontent.com/91569726/204116394-a141689e-e936-4a60-8822-3046aaba6bb1.jpg)
 ________________________________________________________________
-## Speaker's Desk
+## Qualitative Feedbacks and Analysis
 ![Summit4](https://user-images.githubusercontent.com/91569726/204116395-b5c14d55-2d30-449a-b5c7-6d705f3bb7d0.jpg)
 ______________________________________________________________
 ## Contest
